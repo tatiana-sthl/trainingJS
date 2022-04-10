@@ -27,5 +27,4 @@ const p2 = document.createElement("p2");
 p2.textContent = "ME TOO!";
 display.appendChild(p2);
 
-
 container.appendChild(display);
